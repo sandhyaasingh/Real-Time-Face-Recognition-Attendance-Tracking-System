@@ -47,4 +47,3 @@ cd Real-Time-Face-Recognition-Attendance-Tracking-System
 
 ---
 *If you like this project, give it a ⭐!* 
-```
