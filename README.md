@@ -37,20 +37,14 @@ cd Real-Time-Face-Recognition-Attendance-Tracking-System
 4. **Sit in front of the camera**; the system will recognize and mark attendance in `attendence_excel.xls`.
 5. **Press 'q' to quit** the program.
 
-## 🖼️ Demo (Screenshots/GIFs)
-![Demo GIF](demo.gif) *(Add a recorded GIF of the working system here)*
+## 🖼️ Output
+![Output Screenshot](Output.png)
 
 ## 🔧 Future Improvements
 - 📤 **Integration with Database** for better attendance management.
 - 📧 **Email Notifications** for attendance reports.
 - 📱 **Mobile App Integration** for remote attendance tracking.
 
-## 🤝 Contributors
-- **[Sandhyaa Singh](https://github.com/sandhyaasingh)** (Project Creator)
-
-## 📜 License
-This project is open-source under the **MIT License**.
-
 ---
-*If you like this project, give it a ⭐ on GitHub!* 🚀
+*If you like this project, give it a ⭐!* 
 ```
