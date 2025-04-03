@@ -44,6 +44,3 @@ cd Real-Time-Face-Recognition-Attendance-Tracking-System
 - 📤 **Integration with Database** for better attendance management.
 - 📧 **Email Notifications** for attendance reports.
 - 📱 **Mobile App Integration** for remote attendance tracking.
-
----
-*If you like this project, give it a ⭐!* 
